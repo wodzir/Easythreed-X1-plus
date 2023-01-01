@@ -1,26 +1,12 @@
 How to print it: 
 
-Base front: 
-Without support
+Electronics box frame: 
+With support on, only on printbed
 
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Base%20front.PNG)
+![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Electronics%20box%20frame.PNG)
 
-Base back: 
-Without support
+Electronics box inside: 
+With support on, only on printbed
 
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Base%20back.PNG)
+![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Electronics%20box%20inside.PNG)
 
-X axis rods end: 
-Without support
-
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/X%20axis%20rods%20end.PNG)
-
-Z axis bottom: 
-Without support
-
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20axis%20bottom.PNG)
-
-Z axis top: 
-Without support
-
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20axis%20top.PNG)

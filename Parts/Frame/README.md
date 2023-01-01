@@ -17,8 +17,8 @@ Without support
 
 Z axis bottom: 
 Without support
-![]()
+![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20axis%20bottom.PNG)
 
 Z axis top: 
 Without support
-![]()
+![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20axis%20top.PNG)

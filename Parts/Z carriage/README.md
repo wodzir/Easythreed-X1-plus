@@ -1,26 +1,21 @@
 How to print it: 
 
-Base front: 
+Z carriage front: 
 Without support
 
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Base%20front.PNG)
+![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20carriage%20front.PNG)
 
-Base back: 
+Z carriage back: 
 Without support
 
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Base%20back.PNG)
+![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20carriage%20back.PNG)
 
-X axis rods end: 
+Z carriage cover: 
 Without support
 
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/X%20axis%20rods%20end.PNG)
+![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20carriage%20cover.PNG)
 
-Z axis bottom: 
+Z carriage nut cover: 
 Without support
 
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20axis%20bottom.PNG)
-
-Z axis top: 
-Without support
-
-![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20axis%20top.PNG)
+![](https://github.com/wodzir/Easythreed-X1-plus/blob/main/Images/Screenshots/How%20to%20print/Z%20carriage%20nut%20cover.PNG)
